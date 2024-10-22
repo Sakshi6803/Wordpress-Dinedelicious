@@ -1,0 +1,30 @@
+2024-10-18T08:29:48+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 1199
+2024-10-18T08:38:21+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 1203
+2024-10-18T08:54:27+00:00 NOTICE profile :: user_update_subscribe_status :: Array
+(
+    [subscribed] => 
+    [user_id] => 5
+    [gdpr_fields] => 
+)
+2024-10-18T09:09:13+00:00 NOTICE handleOrderUpdate :: order_status
+2024-10-18T09:09:13+00:00 NOTICE handleOrderUpdate :: order_status
+2024-10-18T09:09:13+00:00 NOTICE handleOrderUpdate :: order_status
+2024-10-18T09:09:13+00:00 NOTICE handleOrderUpdate :: order_status
+2024-10-18T09:09:13+00:00 NOTICE handleOrderUpdate :: order_status
+2024-10-18T09:09:13+00:00 NOTICE handleOrderUpdate :: order_status
+2024-10-18T09:09:13+00:00 NOTICE handleOrderUpdate :: order_status
+2024-10-18T09:09:13+00:00 NOTICE handleOrderUpdate :: order_status
+2024-10-18T09:09:13+00:00 NOTICE handleOrderUpdate :: order_status
+2024-10-18T09:09:13+00:00 NOTICE handleOrderUpdate :: order_status
+2024-10-18T09:09:13+00:00 NOTICE handleOrderUpdate :: order_status
+2024-10-18T09:09:13+00:00 NOTICE handleOrderUpdate :: order_status
+2024-10-18T09:09:13+00:00 NOTICE handleOrderUpdate :: order_status
+2024-10-18T09:09:13+00:00 NOTICE handleOrderUpdate :: order_status
+2024-10-18T09:09:13+00:00 NOTICE handleOrderUpdate :: order_status
+2024-10-18T09:09:13+00:00 NOTICE handleOrderUpdate :: order_status
+2024-10-18T09:09:13+00:00 NOTICE handleOrderUpdate :: order_status
+2024-10-18T09:09:13+00:00 NOTICE handleOrderUpdate :: order_status
+2024-10-18T09:09:14+00:00 NOTICE handleOrderUpdate :: order_status
+2024-10-18T09:09:15+00:00 NOTICE handleOrderUpdate :: order_status
+2024-10-18T09:09:26+00:00 NOTICE handleOrderUpdate :: order_status
+2024-10-18T09:09:33+00:00 NOTICE handleOrderUpdate :: order_status

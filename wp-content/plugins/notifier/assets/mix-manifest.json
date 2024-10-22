@@ -1,0 +1,10 @@
+{
+    "/css/admin.css": "/css/admin.css",
+    "/css/frontend.css": "/css/frontend.css",
+    "/js/admin.js": "/js/admin.js",
+    "/js/jquery-ui-timepicker-addon.min.js": "/js/jquery-ui-timepicker-addon.min.js",
+    "/js/select2.min.js": "/js/select2.min.js",
+    "/images/favicon.svg": "/images/favicon.svg",
+    "/images/logo.svg": "/images/logo.svg",
+    "/images/notifier-plugin-overview.svg": "/images/notifier-plugin-overview.svg"
+}
